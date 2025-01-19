@@ -4,7 +4,7 @@ This dataset contains a time-varying index for agricultural suitability across E
 
 The data was generated using reconstructed historical temperature and precipitation datasets and incorporates soil characteristics such as carbon content and pH to assess suitability for crops like wheat, rye, barley, and oats in pre-industrial Europe.
 
-## Data Dictionary
+## Data Dictionary Table
 
 | Variable Name         | Description                                                                                              |
 |-----------------------|----------------------------------------------------------------------------------------------------------|
