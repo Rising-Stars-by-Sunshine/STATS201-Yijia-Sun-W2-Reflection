@@ -13,9 +13,8 @@ This guide provides the necessary steps to set up the environment for running th
   - `matplotlib`, `seaborn`: For data visualization.
   - `scikit-learn`: For machine learning models.
 
-## 1. Setup for Cloud Environment (Google Colab, AWS, Azure)
+## 1. Setup for Cloud Environment (Google Colab)
 
-### Google Colab
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Upload the `load_and_exploratory_data_analysis.ipynb` file to Colab:
    - **Upload the notebook**: Click `File` > `Upload notebook` and select the file from your local machine.
@@ -25,7 +24,7 @@ This guide provides the necessary steps to set up the environment for running th
    ```python
    !pip install rasterio pandas matplotlib seaborn scikit-learn
 
-## 2. Setup for Local Environment
+## 2. Setup for Local Environment (Linux, macOS, or Windows)
 
 ### Local Environment Requirements
 - **Operating System**: Linux, macOS, or Windows
